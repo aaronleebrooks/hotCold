@@ -1,0 +1,11 @@
+* {
+	font-size: 20px;
+	box-sizing: border-box;
+}
+
+.game {
+	background: silver;
+	padding: 50px 50px;
+	text-align: center;
+	margin: 50px 75px;
+}

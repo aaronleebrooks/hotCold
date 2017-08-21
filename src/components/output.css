@@ -1,0 +1,12 @@
+.results {
+	margin-bottom: 35px;
+}
+
+.results {
+	text-align: center;
+}
+
+.results label, output{
+	display: block;
+	text-align: center;
+}

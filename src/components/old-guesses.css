@@ -1,0 +1,11 @@
+.old-group {
+	margin-right: auto;
+	margin-left: auto; 
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+	text-decoration: none;
+	width: 35px;
+}
